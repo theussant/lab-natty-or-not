@@ -16,5 +16,5 @@ O podcast é uma apresentação do ROS2 que leva o espectador a uma jornada ráp
 
 <a href="output/podcasteditado.mp4" title="View Podcast"> ✨Clique aqui para ver</a>
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante. A combinação de tecnologia avançada e criatividade abriu novas possibilidades para a expressão artística. Foi um verdadeiro privilégio fazer parte desse processo inovador.
