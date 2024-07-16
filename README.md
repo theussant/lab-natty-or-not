@@ -6,7 +6,7 @@ Este podcast apresenta uma visão rápida e envolvente do ROS2 Foxy e alguns tó
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- Software **[Capcut](https://www.capcut.com)** para edição de vídeo.
+- Software **[Capcut](https://www.capcut.com)** para edição de aúdio.
 
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Capcut" foi essencial para a edição final, garantindo um fluxo suave e profissional.
