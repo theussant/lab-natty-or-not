@@ -14,5 +14,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essen
 ## 🚀 Resultados
 O vídeo é uma apresentação do ROS2 que leva o espectador a uma jornada rápida pelo mundo da Robótica, destacando seu potencial transformador.
 
+[LINK PARA O VÍDEO AQUI]()
+
 ## 💭 Reflexão (Opcional)
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante. A combinação de tecnologia avançada e criatividade abriu novas possibilidades para a expressão artística. Foi um verdadeiro privilégio fazer parte desse processo inovador.
