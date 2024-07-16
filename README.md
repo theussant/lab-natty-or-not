@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# ROS2 na sociedade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação do ROS2 na sociedade.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
